@@ -1,0 +1,64 @@
+{
+  "22012006": {
+    "name": "Roopak",
+    "sessions": [
+      {
+        "timestamp": "2025-10-21T19:38:02.508509",
+        "quiz_type": "adaptive",
+        "num_questions": 5,
+        "accuracy": 0.2,
+        "mastery_index": 0.2,
+        "avg_time": 3.0262704000000005,
+        "difficulty_progression": [
+          "medium",
+          "easy",
+          "easy",
+          "easy",
+          "easy"
+        ],
+        "performance_history": [
+          {
+            "correct": false,
+            "time": 10.515461,
+            "expected_time": 28.348220062975578,
+            "difficulty": "medium",
+            "topic": "History",
+            "question_id": 26
+          },
+          {
+            "correct": false,
+            "time": 1.947881,
+            "expected_time": 15.426446347075766,
+            "difficulty": "easy",
+            "topic": "History",
+            "question_id": 58
+          },
+          {
+            "correct": false,
+            "time": 0.869008,
+            "expected_time": 10.108376514802984,
+            "difficulty": "easy",
+            "topic": "History",
+            "question_id": 82
+          },
+          {
+            "correct": true,
+            "time": 0.879811,
+            "expected_time": 12.090716207377136,
+            "difficulty": "easy",
+            "topic": "History",
+            "question_id": 37
+          },
+          {
+            "correct": false,
+            "time": 0.919191,
+            "expected_time": 18.442131407263112,
+            "difficulty": "easy",
+            "topic": "Math",
+            "question_id": 52
+          }
+        ]
+      }
+    ]
+  }
+}
